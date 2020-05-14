@@ -51,9 +51,9 @@
             
             <tag> Java </tag>
             
-            <tag> SpringBoot </tag>
-            
             <tag> MyBatis </tag>
+            
+            <tag> SpringBoot </tag>
             
         </tags>
       
@@ -161,11 +161,11 @@
             
             <tag> Java </tag>
             
-            <tag> MyBatis </tag>
-            
             <tag> Spring </tag>
             
             <tag> SpringMVC </tag>
+            
+            <tag> MyBatis </tag>
             
             <tag> JavaScript </tag>
             
