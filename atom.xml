@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://hmcoding.cn/"/>
+  <link href="https://hmc7660.github.io/"/>
   <updated>2020-05-14T07:41:46.078Z</updated>
-  <id>https://hmcoding.cn/</id>
+  <id>https://hmc7660.github.io/</id>
   
   <author>
     <name>HmCoding</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Spring Boot整合JPA</title>
-    <link href="https://hmcoding.cn/2019/09/21/Spring%20Boot%E6%95%B4%E5%90%88JPA/"/>
-    <id>https://hmcoding.cn/2019/09/21/Spring%20Boot%E6%95%B4%E5%90%88JPA/</id>
+    <link href="https://hmc7660.github.io/2019/09/21/Spring%20Boot%E6%95%B4%E5%90%88JPA/"/>
+    <id>https://hmc7660.github.io/2019/09/21/Spring%20Boot%E6%95%B4%E5%90%88JPA/</id>
     <published>2019-09-20T16:00:00.000Z</published>
     <updated>2020-05-14T07:41:46.078Z</updated>
     
@@ -35,21 +35,21 @@
     </summary>
     
     
-      <category term="后端开发" scheme="https://hmcoding.cn/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="后端开发" scheme="https://hmc7660.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Java" scheme="https://hmcoding.cn/tags/Java/"/>
+      <category term="Java" scheme="https://hmc7660.github.io/tags/Java/"/>
     
-      <category term="Spring Data JPA" scheme="https://hmcoding.cn/tags/Spring-Data-JPA/"/>
+      <category term="Spring Data JPA" scheme="https://hmc7660.github.io/tags/Spring-Data-JPA/"/>
     
-      <category term="SpringBoot" scheme="https://hmcoding.cn/tags/SpringBoot/"/>
+      <category term="SpringBoot" scheme="https://hmc7660.github.io/tags/SpringBoot/"/>
     
   </entry>
   
   <entry>
     <title>Spring Boot整合MyBatis</title>
-    <link href="https://hmcoding.cn/2019/08/20/Spring%20Boot%E6%95%B4%E5%90%88MyBatis/"/>
-    <id>https://hmcoding.cn/2019/08/20/Spring%20Boot%E6%95%B4%E5%90%88MyBatis/</id>
+    <link href="https://hmc7660.github.io/2019/08/20/Spring%20Boot%E6%95%B4%E5%90%88MyBatis/"/>
+    <id>https://hmc7660.github.io/2019/08/20/Spring%20Boot%E6%95%B4%E5%90%88MyBatis/</id>
     <published>2019-08-19T16:00:00.000Z</published>
     <updated>2020-05-14T07:13:06.669Z</updated>
     
@@ -65,21 +65,21 @@
     </summary>
     
     
-      <category term="后端开发" scheme="https://hmcoding.cn/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="后端开发" scheme="https://hmc7660.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Java" scheme="https://hmcoding.cn/tags/Java/"/>
+      <category term="Java" scheme="https://hmc7660.github.io/tags/Java/"/>
     
-      <category term="MyBatis" scheme="https://hmcoding.cn/tags/MyBatis/"/>
+      <category term="SpringBoot" scheme="https://hmc7660.github.io/tags/SpringBoot/"/>
     
-      <category term="SpringBoot" scheme="https://hmcoding.cn/tags/SpringBoot/"/>
+      <category term="MyBatis" scheme="https://hmc7660.github.io/tags/MyBatis/"/>
     
   </entry>
   
   <entry>
     <title>Spring Boot初体验</title>
-    <link href="https://hmcoding.cn/2019/08/10/Spring%20Boot%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
-    <id>https://hmcoding.cn/2019/08/10/Spring%20Boot%E5%88%9D%E4%BD%93%E9%AA%8C/</id>
+    <link href="https://hmc7660.github.io/2019/08/10/Spring%20Boot%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>https://hmc7660.github.io/2019/08/10/Spring%20Boot%E5%88%9D%E4%BD%93%E9%AA%8C/</id>
     <published>2019-08-09T16:00:00.000Z</published>
     <updated>2020-05-14T07:33:45.952Z</updated>
     
@@ -95,19 +95,19 @@
     </summary>
     
     
-      <category term="后端开发" scheme="https://hmcoding.cn/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="后端开发" scheme="https://hmc7660.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Java" scheme="https://hmcoding.cn/tags/Java/"/>
+      <category term="Java" scheme="https://hmc7660.github.io/tags/Java/"/>
     
-      <category term="Spring Boot" scheme="https://hmcoding.cn/tags/Spring-Boot/"/>
+      <category term="Spring Boot" scheme="https://hmc7660.github.io/tags/Spring-Boot/"/>
     
   </entry>
   
   <entry>
     <title>Oracle数据库基础命令</title>
-    <link href="https://hmcoding.cn/2019/07/12/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/"/>
-    <id>https://hmcoding.cn/2019/07/12/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/</id>
+    <link href="https://hmc7660.github.io/2019/07/12/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/"/>
+    <id>https://hmc7660.github.io/2019/07/12/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/</id>
     <published>2019-07-11T16:00:00.000Z</published>
     <updated>2020-05-14T07:36:03.250Z</updated>
     
@@ -123,19 +123,19 @@
     </summary>
     
     
-      <category term="SQL" scheme="https://hmcoding.cn/categories/SQL/"/>
+      <category term="SQL" scheme="https://hmc7660.github.io/categories/SQL/"/>
     
     
-      <category term="Oracle" scheme="https://hmcoding.cn/tags/Oracle/"/>
+      <category term="Oracle" scheme="https://hmc7660.github.io/tags/Oracle/"/>
     
-      <category term="SQL" scheme="https://hmcoding.cn/tags/SQL/"/>
+      <category term="SQL" scheme="https://hmc7660.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>SpringMVC实现文件上传与下载</title>
-    <link href="https://hmcoding.cn/2019/06/17/SpringMVC%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%92%8C%E4%B8%8B%E8%BD%BD/"/>
-    <id>https://hmcoding.cn/2019/06/17/SpringMVC%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%92%8C%E4%B8%8B%E8%BD%BD/</id>
+    <link href="https://hmc7660.github.io/2019/06/17/SpringMVC%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%92%8C%E4%B8%8B%E8%BD%BD/"/>
+    <id>https://hmc7660.github.io/2019/06/17/SpringMVC%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%92%8C%E4%B8%8B%E8%BD%BD/</id>
     <published>2019-06-16T16:00:00.000Z</published>
     <updated>2020-05-14T01:48:44.330Z</updated>
     
@@ -151,19 +151,19 @@
     </summary>
     
     
-      <category term="后端开发" scheme="https://hmcoding.cn/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="后端开发" scheme="https://hmc7660.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Java" scheme="https://hmcoding.cn/tags/Java/"/>
+      <category term="Java" scheme="https://hmc7660.github.io/tags/Java/"/>
     
-      <category term="SpringMVC" scheme="https://hmcoding.cn/tags/SpringMVC/"/>
+      <category term="SpringMVC" scheme="https://hmc7660.github.io/tags/SpringMVC/"/>
     
   </entry>
   
   <entry>
     <title>SSM框架整合入门</title>
-    <link href="https://hmcoding.cn/2019/05/10/SSM%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88%E5%85%A5%E9%97%A8/"/>
-    <id>https://hmcoding.cn/2019/05/10/SSM%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88%E5%85%A5%E9%97%A8/</id>
+    <link href="https://hmc7660.github.io/2019/05/10/SSM%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88%E5%85%A5%E9%97%A8/"/>
+    <id>https://hmc7660.github.io/2019/05/10/SSM%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88%E5%85%A5%E9%97%A8/</id>
     <published>2019-05-09T16:00:00.000Z</published>
     <updated>2020-05-14T07:28:57.712Z</updated>
     
@@ -179,18 +179,18 @@
     </summary>
     
     
-      <category term="后端开发" scheme="https://hmcoding.cn/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="后端开发" scheme="https://hmc7660.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Java" scheme="https://hmcoding.cn/tags/Java/"/>
+      <category term="Java" scheme="https://hmc7660.github.io/tags/Java/"/>
     
-      <category term="Spring" scheme="https://hmcoding.cn/tags/Spring/"/>
+      <category term="MyBatis" scheme="https://hmc7660.github.io/tags/MyBatis/"/>
     
-      <category term="SpringMVC" scheme="https://hmcoding.cn/tags/SpringMVC/"/>
+      <category term="Spring" scheme="https://hmc7660.github.io/tags/Spring/"/>
     
-      <category term="MyBatis" scheme="https://hmcoding.cn/tags/MyBatis/"/>
+      <category term="SpringMVC" scheme="https://hmc7660.github.io/tags/SpringMVC/"/>
     
-      <category term="JavaScript" scheme="https://hmcoding.cn/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://hmc7660.github.io/tags/JavaScript/"/>
     
   </entry>
   
